@@ -11,10 +11,10 @@ body>div{
 body>div>div{
     width: 90%;
     height: 200px;
-    background-color: black;
+    background-color: rgb(104, 9, 9);
 }
 body>div>div>div:nth-of-type(1){
     width: 50%;
-    background-color: aqua;
+    background-color: rgb(19, 8, 8);
     height: inherit;
 }
